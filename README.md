@@ -51,5 +51,6 @@ Perhaps asking about the most recent technologies (last 6 month) I've shipping t
 
 # Socials
 
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fhadydotai&style=for-the-badge">
-<img alt="HackerNews User Karma" src="https://img.shields.io/hackernews/user-karma/l0gicpath?style=for-the-badge">
+<a href="https://hady.ai" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?&style=for-the-badge&logoColor=white" /></a>
+<a href="https://x.com/hadydotai" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Follow%20%40hadydotai-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://news.ycombinator.com/user?id=l0gicpath" target="_blank"><img alt="HackerNews User Karma" src="https://img.shields.io/hackernews/user-karma/l0gicpath?style=for-the-badge"></a>
