@@ -4,7 +4,7 @@ I've been a passionate software engineer and a tech leader for nearly two decade
 counting type.
 
 Programming has been a hobby of mine since I was a kid hanging around IRC channels on freenode, hacking my school computers, and
-botting ICQ. Next thing I know, I'm doing it professionally... Fate as would have it, isn't without a sense of irony. After nearly two decades of professional work I'm at a stage now where I crave this _hobby_ feeling. Hacking on things with no purpose other than for the heck of it.
+botting ICQ. Next thing I know, I'm doing it professionally... As fate would have it, isn't without a sense of irony. After nearly two decades of professional work I'm at a stage now where I crave this _hobby_ feeling. Hacking on things with no purpose other than for the heck of it.
 
 In my day to day work, my mission on any project I work on, on any team I lead and mentor, and in any organization I manage, 
 my mission is to raise the quality bar. I'm usually the guy you copy from, setting quasi-standards org-wide. But tooting my own horn aside,
