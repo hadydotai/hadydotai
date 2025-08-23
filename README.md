@@ -1,6 +1,6 @@
 # Hi, my name is Hady.
 
-I've been a passionate software engineer and a tech leader for nearly two decades, 18 years of experience to be exact if you're the
+I've been a passionate software engineer and a tech leader for nearly two decades, 19 years of experience to be exact if you're the
 counting type.
 
 Programming has been a hobby of mine since I was a kid hanging around IRC channels on freenode, hacking my school computers, and
